@@ -1,2 +1,2 @@
 # web-
-mini projet wev 
+mini projet web 
